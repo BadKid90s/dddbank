@@ -1,0 +1,1 @@
+Web模块包含Controller等相关代码。依赖于Application模块，如果用SpringMVC则需要依赖Spring。

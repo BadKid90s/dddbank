@@ -1,0 +1,1 @@
+Messaging模块包含对消息的处理，模块要依赖具体的消息队列，比如RocketMQ。如果需要用Spring提供的注解方案，则需要依赖Spring。

@@ -1,0 +1,1 @@
+Start模块是SpringBoot的启动类,依赖于web模块和SpringBoot。
